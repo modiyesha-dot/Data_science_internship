@@ -3,7 +3,6 @@
 This repository contains my internship tasks and projects.
 
 ## Day 1 - Environment Setup
-
 - Python verified.
 - VS Code verified.
 - Jupyter Notebook verified.
@@ -11,4 +10,11 @@ This repository contains my internship tasks and projects.
 - GitHub repository created.
 - First Python program executed successfully.
 
-Looking forward to learning Data Science and building real-world projects.
+## Day 2 - Python Basics
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Student Performance Analyzer Program
