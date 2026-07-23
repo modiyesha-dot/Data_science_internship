@@ -1,35 +1,182 @@
 # Data Science Internship
 
-This repository contains my internship tasks and projects.
+This repository contains all tasks and projects completed during my Data Science Internship at Codomax Digital Solutions.
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Git & GitHub
+- VS Code
+
+---
 
 ## Day 1 - Environment Setup
-- Python verified.
-- VS Code verified.
-- Git and GitHub configured.
-- First Python program executed successfully.
+
+### Objective
+Set up the development environment for Data Science.
+
+### Tasks Performed
+- Installed Python
+- Configured VS Code
+- Installed Git
+- Connected GitHub with local system
+- Executed first Python program
+
+### Learning Outcome
+- Understood the Data Science development environment.
+- Learned basic GitHub workflow.
+
+---
 
 ## Day 2 - Python Basics
-- Worked with variables, data types, and operators.
-- Implemented conditional statements and loops.
-- Practiced basic problem-solving using Python.
 
-## Day 3 - Smart Career Readiness Analytics System
 ### Objective
-Analyze technical and performance scores using NumPy.
+Learn Python fundamentals.
+
+### Tasks Performed
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Basic Python Programming
+
+### Learning Outcome
+- Developed a strong foundation in Python programming.
+- Improved logical thinking and problem-solving skills.
+
+---
+
+## Day 3 - Smart Career Readiness Analytics System Using NumPy
+
+### Objective
+Analyze student technical and performance scores using NumPy.
 
 ### Technologies Used
 - Python
 - NumPy
 
 ### Features
-- Stores technical skill scores.
-- Stores performance parameter scores.
-- Displays all scores in a structured format.
-- Calculates average technical score.
-- Calculates average performance score.
-- Demonstrates data analysis using NumPy arrays.
+- Technical Skill Analysis
+- Performance Score Analysis
+- Average Score Calculation
+- Highest and Lowest Score Detection
+- Standard Deviation Calculation
+- Career Readiness Evaluation
+
+### Concepts Covered
+- NumPy Arrays
+- Mathematical Operations
+- Mean Calculation
+- Maximum and Minimum Values
+- Standard Deviation
+- Data Analysis Fundamentals
 
 ### Learning Outcome
-- Learned NumPy array creation and manipulation.
-- Performed statistical calculations using NumPy.
-- Improved understanding of data analysis fundamentals.
+- Learned NumPy array operations.
+- Performed statistical calculations.
+- Applied data analysis concepts to a real-world scenario.
+
+---
+
+## Day 4 - Career Readiness Dataset Analysis Using Pandas
+
+### Objective
+Load and analyze a CSV dataset using Pandas.
+
+### Dataset
+Career Readiness Dataset containing student academic and skill-related information.
+
+### Technologies Used
+- Python
+- Pandas
+- CSV Dataset
+
+### Tasks Performed
+- Imported Pandas library
+- Loaded CSV dataset
+- Viewed dataset rows and columns
+- Explored dataset shape
+- Displayed dataset information
+- Examined data types
+- Prepared dataset for future analysis
+
+### Features
+- Dataset Loading
+- DataFrame Exploration
+- Shape Analysis
+- Column Analysis
+- Dataset Information Display
+- Data Type Inspection
+
+### Learning Outcome
+- Learned how to work with CSV datasets.
+- Understood DataFrame structure.
+- Explored dataset characteristics using Pandas.
+
+---
+
+## Project Overview
+
+### Smart Career Readiness Analytics System
+
+This project is designed to evaluate and analyze student career readiness based on academic performance, technical skills, certifications, internships, communication skills, and aptitude scores.
+
+### Key Parameters
+- CGPA
+- Python Skills
+- SQL Skills
+- Power BI Skills
+- Projects
+- Certifications
+- Internships
+- Communication Skills
+- Aptitude Score
+
+### Future Enhancements
+- Missing Value Handling
+- Duplicate Record Removal
+- Data Cleaning
+- Statistical Analysis
+- Data Visualization
+- Dashboard Development
+- Career Readiness Scoring
+- Placement Readiness Analysis
+
+---
+
+## Repository Structure
+
+```text
+Data_science_internship
+│
+├── day1.py
+├── day2.py
+├── day3.py
+├── day4.py
+├── career_readiness.csv
+└── README.md
+```
+
+---
+
+## Author
+
+**Yesha Modi**
+
+Data Science Enthusiast | Computer Engineering (Data Science) Student
+
+Currently learning:
+- Python
+- Data Analytics
+- Data Science
+- Power BI
+- SQL
+- Machine Learning
+
+---
+
+## GitHub Repository
+
+This repository will be continuously updated throughout the internship with new tasks, projects, analyses, and visualizations.
