@@ -117,6 +117,52 @@ Career Readiness Dataset containing student academic and skill-related informati
 
 ---
 
+## Day 5 - Data Cleaning and Preprocessing Using Pandas
+
+### Objective
+Clean and preprocess the dataset by handling missing values, removing duplicate records, and correcting data types.
+
+### Dataset
+Career Readiness Dataset containing student academic and skill-related information.
+
+### Technologies Used
+- Python
+- Pandas
+- CSV Dataset
+
+### Tasks Performed
+- Identified missing values in the dataset
+- Filled missing numerical values using mean
+- Detected duplicate records
+- Removed duplicate records
+- Checked data types of all columns
+- Corrected inappropriate data types
+- Verified cleaned dataset
+
+### Features
+- Missing Value Handling
+- Duplicate Record Detection
+- Duplicate Removal
+- Data Cleaning
+- Data Validation
+- Data Type Correction
+- Dataset Preprocessing
+
+### Concepts Covered
+- Pandas DataFrame Operations
+- Missing Data Treatment
+- Duplicate Record Handling
+- Data Cleaning Techniques
+- Data Type Conversion
+- Data Preprocessing Fundamentals
+
+### Learning Outcome
+- Learned practical data cleaning techniques.
+- Improved dataset quality for analysis.
+- Understood the importance of preprocessing in Data Science.
+- Gained hands-on experience with Pandas data cleaning functions.
+
+---
 ## Project Overview
 
 ### Smart Career Readiness Analytics System
@@ -155,6 +201,7 @@ Data_science_internship
 ├── day2.py
 ├── day3.py
 ├── day4.py
+├── day5.py
 ├── career_readiness.csv
 └── README.md
 ```
