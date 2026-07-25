@@ -10,6 +10,7 @@ print(data.isnull().sum())
 
 #handle missing values
 data=data.fillna(data.mean(numeric_only=True))
+data = data.round(1)
 
 #check again
 print("\nMISSING VALUES AFTER CLEANING")
