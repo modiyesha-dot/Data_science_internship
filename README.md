@@ -162,7 +162,53 @@ Career Readiness Dataset containing student academic and skill-related informati
 - Understood the importance of preprocessing in Data Science.
 - Gained hands-on experience with Pandas data cleaning functions.
 
+- ## Day 6 - Data Filtering, Column Selection and Sorting Using Pandas
+
+### Objective
+Perform data filtering, column selection, and sorting operations on a cleaned dataset using Pandas.
+
+### Dataset
+Career Readiness Dataset containing student academic and skill-related information.
+
+### Technologies Used
+- Python
+- Pandas
+- CSV Dataset
+
+### Tasks Performed
+- Loaded cleaned CSV dataset
+- Selected required columns from the dataset
+- Filtered rows based on specific conditions
+- Displayed filtered records
+- Sorted dataset using CGPA and other attributes
+- Analyzed selected data for better understanding
+- Saved sorted dataset as a new CSV file
+
+### Features
+- Column Selection
+- Row Filtering
+- Conditional Data Extraction
+- Data Sorting
+- Data Exploration
+- Pandas DataFrame Operations
+- Sorted Dataset Export
+
+### Concepts Covered
+- Pandas DataFrame
+- Filtering with Conditions
+- Selecting Multiple Columns
+- Sorting Values
+- Data Analysis Fundamentals
+
+### Learning Outcome
+- Learned how to filter data using conditions.
+- Understood column selection techniques in Pandas.
+- Gained experience in sorting and organizing datasets.
+- Improved data manipulation skills using Pandas.
+- Learned how to save processed and sorted data into a new CSV file.
+
 ---
+
 ## Project Overview
 
 ### Smart Career Readiness Analytics System
@@ -202,7 +248,9 @@ Data_science_internship
 ├── day3.py
 ├── day4.py
 ├── day5.py
-├── career_readiness.csv
+├── day6.py
+├── career_readiness_cleaned.csv
+├── career_readiness_sorted.csv
 └── README.md
 ```
 
