@@ -276,12 +276,40 @@ This project is designed to evaluate and analyze student career readiness based 
 - Placement Readiness Analysis
 
 ---
+# Day 8 - Data Visualization with Matplotlib
+
+## Objective
+Create visual representations of the dataset using Matplotlib.
+
+## Tasks Performed
+- Created a Bar Chart for average skill scores.
+- Created a Line Chart to visualize CGPA trends.
+- Created a Pie Chart to show skill score distribution.
+- Added chart titles and axis labels for better understanding.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+## Files
+- day8.py
+- career_readiness_cleaned.csv
+- bar_chart.png
+- line_chart.png
+- pie_chart.png
+
+## Learning Outcome
+Learned how to create and customize different types of charts for data analysis and visualization using Matplotlib.
+
+---
 
 ## Repository Structure
 
 ```text
 Data_science_internship
-│
+
 ├── day1.py
 ├── day2.py
 ├── day3.py
@@ -289,8 +317,12 @@ Data_science_internship
 ├── day5.py
 ├── day6.py
 ├── day7.py
+├── day8.py
 ├── career_readiness_cleaned.csv
 ├── career_readiness_sorted.csv
+├── Bar_chart.png
+├── Line_chart.png
+├── Pie_chart.png
 └── README.md
 ```
 
