@@ -209,6 +209,45 @@ Career Readiness Dataset containing student academic and skill-related informati
 
 ---
 
+## Day 7 - Statistical Analysis Using Pandas
+
+### Objective
+Perform basic statistical analysis on the dataset using Pandas.
+
+### Dataset
+Career Readiness Dataset containing student academic and skill-related information.
+
+### Technologies Used
+- Python
+- Pandas
+- CSV Dataset
+
+### Tasks Performed
+- Calculated total values
+- Calculated average values
+- Found minimum values
+- Found maximum values
+- Counted dataset records
+- Performed statistical analysis on numerical columns
+
+### Features
+- Sum Calculation
+- Average Calculation
+- Minimum Value Detection
+- Maximum Value Detection
+- Record Counting
+- Statistical Analysis
+
+### Concepts Covered
+- Pandas Aggregation Functions
+- Data Analysis
+- Descriptive Statistics
+- Dataset Exploration
+
+### Learning Outcome
+- Learned how to perform statistical analysis using Pandas.
+- Understood the importance of summary statistics.
+- Gained experience in extracting meaningful insights from data.
 ## Project Overview
 
 ### Smart Career Readiness Analytics System
@@ -249,6 +288,7 @@ Data_science_internship
 ├── day4.py
 ├── day5.py
 ├── day6.py
+├── day7.py
 ├── career_readiness_cleaned.csv
 ├── career_readiness_sorted.csv
 └── README.md
