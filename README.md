@@ -338,6 +338,30 @@ career_readiness_cleaned.csv
 Successfully created a mini dashboard by combining data analysis, visualizations, and insights into a single Jupyter Notebook.
 
 ---
+
+## Day 10 - Export Clean Dataset
+
+### Objective
+Export the cleaned dataset into a new CSV file.
+
+### Tasks Completed
+- Loaded the cleaned dataset using Pandas
+- Exported the dataset to a new CSV file
+- Verified successful file creation
+
+### Files
+- day10.py
+- career_readiness_final.csv
+
+### Tools Used
+- Python
+- Pandas
+
+### Outcome
+Successfully exported the cleaned dataset and saved it as a new CSV file.
+
+---
+
 ## Repository Structure
 
 ```text
@@ -352,8 +376,12 @@ Data_science_internship
 ├── day7.py
 ├── day8.py
 ├── day9_dashboard.ipynb
+├── day10.py
+│
 ├── career_readiness_cleaned.csv
 ├── career_readiness_sorted.csv
+├── career_readiness_final.csv
+│
 └── README.md
 ```
 
