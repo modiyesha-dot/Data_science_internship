@@ -304,12 +304,45 @@ Create visual representations of the dataset using Matplotlib.
 Learned how to create and customize different types of charts for data analysis and visualization using Matplotlib.
 
 ---
+# Day 9 - Career Readiness Dashboard
 
+## Objective
+Combine data analysis and multiple visualizations into a single Jupyter Notebook dashboard.
+
+## Dataset
+career_readiness_cleaned.csv
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Dashboard Components
+1. Average Skill Scores (Bar Chart)
+2. CGPA Trend Analysis (Line Chart)
+3. Skill Distribution (Pie Chart)
+4. Career Readiness Insights
+
+## Key Insights
+- Highest Average Skill: Python
+- Lowest Average Skill: PowerBI
+- Average CGPA: 8.71
+- Total Student Records: 60
+
+## Files
+- day9_dashboard.ipynb
+- career_readiness_cleaned.csv
+
+## Outcome
+Successfully created a mini dashboard by combining data analysis, visualizations, and insights into a single Jupyter Notebook.
+
+---
 ## Repository Structure
 
 ```text
 Data_science_internship
-
+│
 ├── day1.py
 ├── day2.py
 ├── day3.py
@@ -318,11 +351,9 @@ Data_science_internship
 ├── day6.py
 ├── day7.py
 ├── day8.py
+├── day9_dashboard.ipynb
 ├── career_readiness_cleaned.csv
 ├── career_readiness_sorted.csv
-├── Bar_chart.png
-├── Line_chart.png
-├── Pie_chart.png
 └── README.md
 ```
 
