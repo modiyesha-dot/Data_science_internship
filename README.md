@@ -362,10 +362,106 @@ Successfully exported the cleaned dataset and saved it as a new CSV file.
 
 ---
 
+# Day 11 - Insight Report
+
+## Objective
+Write at least five observations based on the analysis of the Career Readiness dataset.
+
+## Tasks Completed
+- Analyzed the cleaned dataset
+- Identified key trends and patterns
+- Prepared an insight report with five observations
+
+## Outcome
+Successfully prepared an insight report based on the dataset analysis.
+
+---
+
+# Day 12 - Professional Notebook
+
+## Objective
+Improve notebook formatting, comments, charts, and code readability.
+
+## Improvements Made
+- Added markdown headings
+- Added comments for better code understanding
+- Improved chart titles and axis labels
+- Organized notebook into logical sections
+- Enhanced notebook readability and presentation
+
+## Outcome
+Successfully created a professional and well-documented Jupyter Notebook.
+
+---
+
+# Day 13 - GitHub Project Submission
+
+## Objective
+Upload the notebook, datasets, charts, and README to GitHub.
+
+## Files Uploaded
+- Jupyter Notebook
+- Original Dataset
+- Cleaned Dataset
+- Sorted Dataset
+- Final Exported Dataset
+- Charts
+- Insight Report
+- README.md
+
+## Outcome
+Successfully uploaded the complete project to GitHub.
+
+---
+
+# Day 14 - Final Project Submission
+
+## Objective
+Submit the complete project through the Google Form.
+
+## Submission Includes
+- GitHub Repository Link
+- Jupyter Notebook
+- Cleaned Dataset
+- Charts
+- README.md
+- Insight Report
+- Demo Video (2–3 Minutes)
+
+## Outcome
+Successfully completed and submitted the Data Science Internship project.
+
+---
+
+# Project Summary
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- GitHub
+- Microsoft Excel
+
+## Skills Gained
+- Data Loading
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Creation
+- Insight Generation
+- GitHub Version Control
+- Documentation
+
+## Project Status
+✅ Successfully Completed
+
+---
+
 ## Repository Structure
 
 ```text
-Data_science_internship
+Data_science_internship/
 │
 ├── day1.py
 ├── day2.py
@@ -377,13 +473,20 @@ Data_science_internship
 ├── day8.py
 ├── day9_dashboard.ipynb
 ├── day10.py
+├── Day11_Insight_Report.docx
 │
+├── career_readiness.csv
 ├── career_readiness_cleaned.csv
 ├── career_readiness_sorted.csv
 ├── career_readiness_final.csv
 │
-└── README.md
-```
+├── charts/
+│   ├── bar_chart.png
+│   ├── line_chart.png
+│   └── pie_chart.png
+│
+├── README.md
+
 
 ---
 
